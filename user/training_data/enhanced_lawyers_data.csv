@@ -1,0 +1,370 @@
+username,email,password,specialization,sub_specialization,experience_years,cases_handled,location,area,languages_spoken,court_experience,hourly_rate,success_rate,bio,is_available
+lawyer_fwagner,lawyer_1@huffman.org,defaultpassword123,Family Law,Adoption,17,208,Lahore,DHA,"Sindhi (Basic), Pashto (Conversational)",District Court,13797,83%,"Help trouble wrong everything quite treatment. Generation admit bit either heart learn.
+System my economy much. Leg book day lead front suddenly.
+
+Specializing in adoption cases in Lahore. Handled 208+ cases with 83% success rate.",True
+lawyer_sarahlutz,lawyer_2@smith.info,defaultpassword123,Property Law,Rental Issues,12,167,Quetta,Jinnah Town,"English (Fluent), Urdu (Native)","Special Tribunals, Session Court",13383,75%,"Capital thought media. Amount almost arm people expect may black.
+Work indeed scientist benefit discover do. Huge ago laugh. Work beautiful within for.
+Campaign news first break.
+
+Specializing in rental issues cases in Quetta. Handled 167+ cases with 75% success rate.",False
+lawyer_sotolaura,lawyer_3@davis.info,defaultpassword123,Immigration Law,Citizenship,18,479,Peshawar,Hayatabad,"Pashto (Conversational), Sindhi (Basic)","High Court, Special Tribunals, District Court",4830,80%,"Mouth nature me career rule bag positive. Should beyond beyond boy today. Campaign office hear care try mother. Tough parent dark power.
+
+Specializing in citizenship cases in Peshawar. Handled 479+ cases with 80% success rate.",True
+lawyer_gward,lawyer_4@willis-jordan.com,defaultpassword123,Criminal Law,Drug Offenses,15,146,Peshawar,University Town,"Punjabi (Conversational), English (Fluent)","District Court, High Court",8585,88%,"Inside easy answer in bit only. Responsibility arm population move including.
+Environmental best current ready senior event. Officer human number. Best true step.
+Pattern explain later care.
+
+Specializing in drug offenses cases in Peshawar. Handled 146+ cases with 88% success rate.",False
+lawyer_kayla69,lawyer_5@schultz-henderson.com,defaultpassword123,Criminal Law,White Collar Crimes,21,155,Islamabad,F-8,"Pashto (Conversational), Sindhi (Basic), Punjabi (Conversational)","Special Tribunals, District Court",2079,69%,"Charge until place. World partner political claim paper probably.
+Building else player again wonder. Contain ago garden apply full behind father.
+
+Specializing in white collar crimes cases in Islamabad. Handled 155+ cases with 69% success rate.",False
+lawyer_heathergutierrez,lawyer_6@garcia.net,defaultpassword123,Family Law,Child Custody,25,456,Peshawar,University Town,"Urdu (Native), English (Fluent)","District Court, Session Court",9595,86%,"Have spring pull another car hear democratic. Lawyer others always. Somebody against you action.
+Control road Republican if sister. Chance site difficult study travel song traditional.
+
+Specializing in child custody cases in Peshawar. Handled 456+ cases with 86% success rate.",False
+lawyer_laurenmartinez,lawyer_7@morris.info,defaultpassword123,Criminal Law,White Collar Crimes,25,198,Peshawar,Hayatabad,"Sindhi (Basic), Urdu (Native), Punjabi (Conversational)","Session Court, District Court",9194,75%,"Yourself production last safe interest ask. Practice arrive education world deep special use.
+Keep green hear use continue level. Country so true between imagine subject.
+
+Specializing in white collar crimes cases in Peshawar. Handled 198+ cases with 75% success rate.",False
+lawyer_colemandaniel,lawyer_8@barnett-duffy.com,defaultpassword123,Civil Rights,Police Brutality,16,86,Karachi,Saddar,"Punjabi (Conversational), Sindhi (Basic), English (Fluent)",High Court,18010,61%,"Would item interest. Always town seat dog. Nor to enjoy color probably to international away.
+
+Specializing in police brutality cases in Karachi. Handled 86+ cases with 61% success rate.",False
+lawyer_cooleymelanie,lawyer_9@moore.com,defaultpassword123,Immigration Law,Visas,6,28,Peshawar,Hayatabad,"Sindhi (Basic), Pashto (Conversational), English (Fluent)",Session Court,5454,67%,"Read along popular student next opportunity nor. Ability call send in institution agreement your which.
+Give maybe sense what. Special seat positive little base office.
+
+Specializing in visas cases in Peshawar. Handled 28+ cases with 67% success rate.",True
+lawyer_jstrickland,lawyer_10@johnson.com,defaultpassword123,Corporate Law,Contracts,12,442,Lahore,Model Town,"Punjabi (Conversational), Sindhi (Basic)",High Court,3425,84%,"State chance add page add child after. Start consumer building responsibility material together. Actually model accept camera.
+
+Specializing in contracts cases in Lahore. Handled 442+ cases with 84% success rate.",False
+lawyer_vsherman,lawyer_11@gray.com,defaultpassword123,Property Law,Land Disputes,17,263,Peshawar,Hayatabad,"Urdu (Native), Punjabi (Conversational), English (Fluent)",Special Tribunals,17132,67%,"Because economic around all north middle list. Page necessary customer during store. Central put American condition understand.
+
+Specializing in land disputes cases in Peshawar. Handled 263+ cases with 67% success rate.",True
+lawyer_lorileblanc,lawyer_12@stevens.com,defaultpassword123,Civil Rights,Police Brutality,9,352,Quetta,Samungli Road,"Sindhi (Basic), English (Fluent), Urdu (Native)","District Court, Special Tribunals",2827,65%,"Product wind we response wait possible. Drop issue particular work. Executive try appear common civil.
+Cup move better start. Among girl prove star help live. Low increase clear social enter agent.
+
+Specializing in police brutality cases in Quetta. Handled 352+ cases with 65% success rate.",True
+lawyer_michael33,lawyer_13@clark-barnes.info,defaultpassword123,Property Law,Rental Issues,25,466,Islamabad,Blue Area,"Punjabi (Conversational), Urdu (Native), Pashto (Conversational)","District Court, Session Court",12478,84%,"Music information southern event successful military Democrat. Gun free close nearly compare.
+Bag ask perform during. Position trouble draw campaign certainly. Maintain former bill woman against.
+
+Specializing in rental issues cases in Islamabad. Handled 466+ cases with 84% success rate.",True
+lawyer_rstone,lawyer_14@hensley.com,defaultpassword123,Immigration Law,Visas,23,219,Quetta,Samungli Road,"Punjabi (Conversational), Pashto (Conversational)","Session Court, Special Tribunals",19800,74%,"Doctor particularly since someone buy study. Show issue figure morning middle popular along.
+Owner analysis very rich yet myself. Break when dark race husband simple. Water now level.
+
+Specializing in visas cases in Quetta. Handled 219+ cases with 74% success rate.",True
+lawyer_mjones,lawyer_15@olson-burke.com,defaultpassword123,Property Law,Land Disputes,5,406,Lahore,Model Town,"Sindhi (Basic), Urdu (Native), Punjabi (Conversational)","District Court, Session Court, High Court",5101,86%,"Opportunity affect good huge upon. Within network save although. Others but capital between sing. Try outside sister should sign.
+
+Specializing in land disputes cases in Lahore. Handled 406+ cases with 86% success rate.",True
+lawyer_xgonzalez,lawyer_16@mann.com,defaultpassword123,Property Law,Land Disputes,19,36,Peshawar,University Town,"Punjabi (Conversational), English (Fluent)","Special Tribunals, High Court",3014,71%,"Conference phone summer over race. Lot purpose miss church. Win democratic us let.
+
+Specializing in land disputes cases in Peshawar. Handled 36+ cases with 71% success rate.",False
+lawyer_alexander17,lawyer_17@west-mcpherson.com,defaultpassword123,Intellectual Property,Trademarks,5,326,Peshawar,University Town,"Punjabi (Conversational), Urdu (Native), Sindhi (Basic), Pashto (Conversational)",District Court,3848,93%,"Themselves save why specific yet. Night administration trouble enough common.
+Kid build cost carry her ahead. Describe I remember nation.
+
+Specializing in trademarks cases in Peshawar. Handled 326+ cases with 93% success rate.",True
+lawyer_hannahmcclain,lawyer_18@jackson.com,defaultpassword123,Family Law,Child Custody,23,474,Karachi,Defence,"English (Fluent), Pashto (Conversational)","Session Court, Special Tribunals, District Court",9295,76%,"Argue serve wide learn hope chance. Turn gun tough sense. Available rise back follow fight focus TV.
+All teach act raise fish nation assume.
+
+Specializing in child custody cases in Karachi. Handled 474+ cases with 76% success rate.",False
+lawyer_joshuaweaver,lawyer_19@robinson-hubbard.info,defaultpassword123,Family Law,Adoption,8,96,Lahore,Model Town,"English (Fluent), Punjabi (Conversational), Pashto (Conversational)","District Court, Special Tribunals, Session Court",3095,88%,"Baby meet whether attorney respond present. Help picture you. Treat guess identify actually trade eye ready movement.
+
+Specializing in adoption cases in Lahore. Handled 96+ cases with 88% success rate.",False
+lawyer_mccluremary,lawyer_20@mclaughlin-richardson.info,defaultpassword123,Civil Rights,Police Brutality,10,49,Islamabad,G-11,"English (Fluent), Punjabi (Conversational), Urdu (Native), Sindhi (Basic)",High Court,3198,84%,"Age near entire low job. Performance cover few stop scientist paper. Standard case no herself item blood.
+
+Specializing in police brutality cases in Islamabad. Handled 49+ cases with 84% success rate.",False
+lawyer_stevensleslie,lawyer_21@sherman.com,defaultpassword123,Immigration Law,Citizenship,14,341,Karachi,Clifton,"Pashto (Conversational), Sindhi (Basic), Urdu (Native), Punjabi (Conversational)",Special Tribunals,6885,69%,"Cut see expert. Down painting left TV Republican fast study. Doctor little fly husband painting building type. Owner call second pressure be.
+
+Specializing in citizenship cases in Karachi. Handled 341+ cases with 69% success rate.",False
+lawyer_martinmaria,lawyer_22@taylor-wilson.com,defaultpassword123,Property Law,Land Disputes,10,468,Karachi,Clifton,"English (Fluent), Urdu (Native), Punjabi (Conversational)","Session Court, Special Tribunals",12872,76%,"Still he course order check none son.
+Executive wrong usually there know avoid sit evidence. May avoid decade later health. Customer current along affect drop general statement.
+
+Specializing in land disputes cases in Karachi. Handled 468+ cases with 76% success rate.",True
+lawyer_mary98,lawyer_23@moore.org,defaultpassword123,Corporate Law,Mergers,17,91,Peshawar,Hayatabad,"Punjabi (Conversational), Pashto (Conversational), English (Fluent), Sindhi (Basic)","Special Tribunals, High Court",13506,64%,"Republican information guy point training action high finally.
+Itself maybe Congress strategy. Develop walk gun bank bill add. Sometimes both traditional dog.
+
+Specializing in mergers cases in Peshawar. Handled 91+ cases with 64% success rate.",False
+lawyer_parrishkristen,lawyer_24@jackson.com,defaultpassword123,Immigration Law,Citizenship,15,188,Islamabad,F-8,"Punjabi (Conversational), Sindhi (Basic), English (Fluent)",District Court,13379,73%,"Data some situation ten.
+What stay represent want strategy. Measure job year administration get indeed note. Fund house else seven career.
+
+Specializing in citizenship cases in Islamabad. Handled 188+ cases with 73% success rate.",True
+lawyer_alexanderaguilar,lawyer_25@fernandez-lara.info,defaultpassword123,Civil Rights,Discrimination,8,149,Lahore,DHA,"Sindhi (Basic), Punjabi (Conversational), Pashto (Conversational)","District Court, Special Tribunals, High Court",9711,90%,"Fly kid character. Radio morning democratic rest account task item. Then water significant could stage base.
+
+Specializing in discrimination cases in Lahore. Handled 149+ cases with 90% success rate.",True
+lawyer_katiealexander,lawyer_26@juarez-lopez.biz,defaultpassword123,Corporate Law,Compliance,13,306,Quetta,Samungli Road,"Sindhi (Basic), Punjabi (Conversational), Urdu (Native), English (Fluent)","High Court, Session Court, Special Tribunals",3711,83%,"Purpose kid everyone. Save yeah past level everybody message. About bag yes moment mother which security.
+One financial do individual discuss education man. Whose top cause about.
+
+Specializing in compliance cases in Quetta. Handled 306+ cases with 83% success rate.",False
+lawyer_darrylwilson,lawyer_27@hawkins-smith.com,defaultpassword123,Criminal Law,White Collar Crimes,20,406,Quetta,Jinnah Town,"Pashto (Conversational), Punjabi (Conversational), Urdu (Native)",High Court,15308,64%,"Check first responsibility. Production mean position policy reason meet analysis letter. Accept long threat though well southern player economic.
+Order attorney face yes. Interview occur more garden.
+
+Specializing in white collar crimes cases in Quetta. Handled 406+ cases with 64% success rate.",True
+lawyer_ccasey,lawyer_28@fernandez.info,defaultpassword123,Intellectual Property,Copyright,19,135,Peshawar,University Town,"Pashto (Conversational), Punjabi (Conversational)",District Court,12668,70%,"Why way industry say board far. Amount read issue picture sell.
+
+Specializing in copyright cases in Peshawar. Handled 135+ cases with 70% success rate.",True
+lawyer_carlbarton,lawyer_29@mcmillan.com,defaultpassword123,Intellectual Property,Patents,14,48,Quetta,Samungli Road,"Punjabi (Conversational), Urdu (Native)","District Court, Special Tribunals",19751,90%,"Article political fear new. Including explain bring explain whether such or.
+Enough left small now officer fine. Pull either real attention science development good.
+
+Specializing in patents cases in Quetta. Handled 48+ cases with 90% success rate.",True
+lawyer_johnsonelizabeth,lawyer_30@gonzalez.com,defaultpassword123,Immigration Law,Deportation,12,278,Karachi,Clifton,"English (Fluent), Urdu (Native)","Special Tribunals, High Court, District Court",13832,64%,"Surface receive ability. Matter really support personal only put off. Story bit grow party operation type quickly.
+Stop decide position turn. Focus like market beyond whose at.
+
+Specializing in deportation cases in Karachi. Handled 278+ cases with 64% success rate.",False
+lawyer_hernandeztabitha,lawyer_31@marquez.com,defaultpassword123,Property Law,Land Disputes,9,412,Quetta,Samungli Road,"Urdu (Native), Punjabi (Conversational)","Special Tribunals, Session Court, High Court",2306,77%,"Western really Republican reach source important unit. Person TV happy issue painting. Pattern exactly push place remain baby.
+White discuss drug media education. Southern garden improve senior yet.
+
+Specializing in land disputes cases in Quetta. Handled 412+ cases with 77% success rate.",False
+lawyer_ibarramichael,lawyer_32@fox-byrd.net,defaultpassword123,Criminal Law,White Collar Crimes,18,500,Quetta,Samungli Road,"Urdu (Native), English (Fluent), Punjabi (Conversational), Sindhi (Basic)","High Court, Special Tribunals",7185,75%,"Happy again certainly accept spend power. Forward spring center recently whatever eight three offer. Finish life section add car yeah. Television rate whose sense former war.
+
+Specializing in white collar crimes cases in Quetta. Handled 500+ cases with 75% success rate.",True
+lawyer_williamsjoseph,lawyer_33@brown.com,defaultpassword123,Criminal Law,Drug Offenses,15,206,Lahore,Model Town,"Urdu (Native), English (Fluent)",Session Court,17068,74%,"Accept car key imagine need fact. Society door discuss production sister off. Indeed eat trip market everybody.
+
+Specializing in drug offenses cases in Lahore. Handled 206+ cases with 74% success rate.",False
+lawyer_scott60,lawyer_34@cobb.org,defaultpassword123,Immigration Law,Visas,2,141,Quetta,Jinnah Town,"English (Fluent), Sindhi (Basic), Urdu (Native)",Session Court,18508,83%,"Consumer ground site star example kind person. Site article guess sea within oil region official. Miss begin mind sell seem.
+
+Specializing in visas cases in Quetta. Handled 141+ cases with 83% success rate.",False
+lawyer_sandovalmichael,lawyer_35@george.info,defaultpassword123,Intellectual Property,Patents,20,427,Quetta,Jinnah Town,"Sindhi (Basic), Urdu (Native), Punjabi (Conversational), English (Fluent)","High Court, Special Tribunals",9866,84%,"Area floor trade phone prevent computer my.
+No old born matter prepare street clearly option. Various training work. Operation think effort news attention. A on key style.
+
+Specializing in patents cases in Quetta. Handled 427+ cases with 84% success rate.",True
+lawyer_ojohnson,lawyer_36@kent.com,defaultpassword123,Family Law,Child Custody,1,264,Islamabad,G-11,"Sindhi (Basic), Urdu (Native)","Session Court, Special Tribunals, District Court",18716,60%,"Across time cultural. Between establish physical threat alone.
+These high thought company view.
+Money along weight case worry hotel administration. Investment tax student meet scientist.
+
+Specializing in child custody cases in Islamabad. Handled 264+ cases with 60% success rate.",False
+lawyer_larry63,lawyer_37@clark.org,defaultpassword123,Corporate Law,Compliance,12,212,Islamabad,Blue Area,"Punjabi (Conversational), Sindhi (Basic)","Session Court, District Court, High Court",3325,72%,"Method staff although. Year ground serve similar treatment late. Agency level great statement war program. Eye just hold.
+
+Specializing in compliance cases in Islamabad. Handled 212+ cases with 72% success rate.",False
+lawyer_jeffreyruiz,lawyer_38@black.com,defaultpassword123,Immigration Law,Visas,20,240,Karachi,Saddar,"English (Fluent), Urdu (Native)",District Court,18670,81%,"Soldier majority bill course. Miss production leg attorney modern science know right. Me color beautiful sea parent.
+
+Specializing in visas cases in Karachi. Handled 240+ cases with 81% success rate.",False
+lawyer_beniteztasha,lawyer_39@cook.org,defaultpassword123,Civil Rights,Discrimination,23,346,Quetta,Jinnah Town,"Sindhi (Basic), Pashto (Conversational), Punjabi (Conversational), English (Fluent)","High Court, Session Court",16814,82%,"Degree perhaps produce respond form. Outside wait career sign exist environment Mrs. Left cup pull box size.
+Media skill live voice peace.
+
+Specializing in discrimination cases in Quetta. Handled 346+ cases with 82% success rate.",True
+lawyer_fwinters,lawyer_40@gibbs-willis.com,defaultpassword123,Immigration Law,Citizenship,25,144,Lahore,DHA,"English (Fluent), Punjabi (Conversational), Sindhi (Basic), Urdu (Native)","Special Tribunals, District Court",9955,76%,"Late kitchen street idea even. Me ten others single.
+Indeed top movie military final. Between father light win suffer.
+
+Specializing in citizenship cases in Lahore. Handled 144+ cases with 76% success rate.",False
+lawyer_williamsjonathan,lawyer_41@mathews-martinez.com,defaultpassword123,Immigration Law,Deportation,1,222,Islamabad,F-8,"Urdu (Native), English (Fluent), Pashto (Conversational)","District Court, Session Court, Special Tribunals",3373,85%,"Citizen third Congress career. Can evidence official include.
+Similar ahead nature cost. Into drop crime.
+
+Specializing in deportation cases in Islamabad. Handled 222+ cases with 85% success rate.",True
+lawyer_vanderson,lawyer_42@moore-foster.com,defaultpassword123,Property Law,Land Disputes,8,118,Islamabad,F-8,"Pashto (Conversational), English (Fluent)",High Court,13531,95%,"Site force give garden herself economic. By not spend until alone worry. Hot school by.
+Seat be recognize life light. Medical technology read.
+
+Specializing in land disputes cases in Islamabad. Handled 118+ cases with 95% success rate.",False
+lawyer_tcurtis,lawyer_43@jefferson-west.com,defaultpassword123,Intellectual Property,Copyright,4,451,Peshawar,Hayatabad,"English (Fluent), Sindhi (Basic), Urdu (Native)",District Court,5466,87%,"Campaign good fish election task nor but. Agent five father every television color parent never. Current value head rate Mr management capital.
+
+Specializing in copyright cases in Peshawar. Handled 451+ cases with 87% success rate.",False
+lawyer_jonathan96,lawyer_44@deleon.com,defaultpassword123,Property Law,Land Disputes,24,226,Peshawar,Hayatabad,"Sindhi (Basic), Urdu (Native), English (Fluent), Punjabi (Conversational)","High Court, Special Tribunals, District Court",4221,65%,"Staff once cup little PM. Future religious century car PM final safe expert. Fact whom policy throughout.
+Change in ball hand political clearly seek. Lead suffer talk consumer eight.
+
+Specializing in land disputes cases in Peshawar. Handled 226+ cases with 65% success rate.",True
+lawyer_gordonrichard,lawyer_45@johnson.info,defaultpassword123,Immigration Law,Visas,16,72,Islamabad,F-8,"Urdu (Native), Sindhi (Basic)","Session Court, Special Tribunals, High Court",13347,69%,"Woman religious five address music table. Social never cost local lot strategy plan.
+
+Specializing in visas cases in Islamabad. Handled 72+ cases with 69% success rate.",True
+lawyer_williamscalvin,lawyer_46@gonzalez-lewis.com,defaultpassword123,Property Law,Land Disputes,22,393,Karachi,Defence,"Sindhi (Basic), Punjabi (Conversational)",District Court,19102,63%,"Begin those top under general table crime.
+Try edge plant within grow image.
+Generation impact coach feeling. Least power reason. Ability your read television member adult everything.
+
+Specializing in land disputes cases in Karachi. Handled 393+ cases with 63% success rate.",True
+lawyer_jackcrane,lawyer_47@hamilton.biz,defaultpassword123,Civil Rights,Discrimination,10,257,Quetta,Jinnah Town,"Sindhi (Basic), Punjabi (Conversational), Urdu (Native)","District Court, Special Tribunals, Session Court",19890,81%,"Administration ahead fight true lay officer me policy. Rate loss true.
+Begin study accept property edge threat five. When woman not agreement various friend knowledge.
+
+Specializing in discrimination cases in Quetta. Handled 257+ cases with 81% success rate.",False
+lawyer_katie38,lawyer_48@hanson.info,defaultpassword123,Immigration Law,Deportation,1,327,Peshawar,University Town,"English (Fluent), Urdu (Native), Pashto (Conversational), Punjabi (Conversational)","Special Tribunals, Session Court, High Court",9569,89%,"Partner worry politics authority. Camera site job million civil here option. Class must fear class rock item seven.
+
+Specializing in deportation cases in Peshawar. Handled 327+ cases with 89% success rate.",False
+lawyer_millerjessica,lawyer_49@martinez.info,defaultpassword123,Criminal Law,Drug Offenses,23,429,Islamabad,F-8,"Pashto (Conversational), Urdu (Native), Punjabi (Conversational)","District Court, Session Court",12437,68%,"Reach only budget card. Product same successful team return minute. Five hit tend fire second.
+Affect expect hand just. Author yourself drug down police.
+Plant yourself PM evidence again establish.
+
+Specializing in drug offenses cases in Islamabad. Handled 429+ cases with 68% success rate.",True
+lawyer_jordan18,lawyer_50@anderson.com,defaultpassword123,Property Law,Rental Issues,7,97,Quetta,Jinnah Town,"Sindhi (Basic), Urdu (Native), Pashto (Conversational), Punjabi (Conversational)","District Court, Special Tribunals",2316,71%,"Amount affect commercial find. Blood lawyer add easy oil Mr dinner. Stop rich model question they. Suffer number bag.
+
+Specializing in rental issues cases in Quetta. Handled 97+ cases with 71% success rate.",True
+lawyer_cynthiarusso,lawyer_51@richards.com,defaultpassword123,Criminal Law,Violent Crimes,22,129,Quetta,Jinnah Town,"Punjabi (Conversational), Sindhi (Basic)","High Court, Special Tribunals, District Court",8520,65%,"Some already green wish. Food popular star occur stage political. Arrive financial usually hour art quickly. Back center charge provide.
+
+Specializing in violent crimes cases in Quetta. Handled 129+ cases with 65% success rate.",True
+lawyer_robertsonralph,lawyer_52@cowan.net,defaultpassword123,Property Law,Rental Issues,11,369,Peshawar,Hayatabad,"English (Fluent), Sindhi (Basic), Pashto (Conversational), Urdu (Native)","Session Court, District Court",10127,87%,"Operation next you democratic sport. Coach wonder blue anything couple mission.
+Grow near third say fast shake into. Experience traditional food smile.
+
+Specializing in rental issues cases in Peshawar. Handled 369+ cases with 87% success rate.",False
+lawyer_keytasha,lawyer_53@brown-watson.net,defaultpassword123,Intellectual Property,Copyright,11,121,Lahore,Gulberg,"Sindhi (Basic), Urdu (Native), Pashto (Conversational), English (Fluent)","Special Tribunals, District Court",14397,60%,"Stand road majority safe determine positive choice. True run about along. Argue quickly quality purpose black part.
+Local visit space study. Full note beautiful bill remember one.
+
+Specializing in copyright cases in Lahore. Handled 121+ cases with 60% success rate.",True
+lawyer_mark39,lawyer_54@jones.com,defaultpassword123,Civil Rights,Discrimination,16,211,Islamabad,F-8,"Punjabi (Conversational), Sindhi (Basic)","Special Tribunals, Session Court, District Court",10099,71%,"Decide avoid leg assume father organization share. About look after.
+Picture thus key wish seem between computer. One program lead test discover.
+This board form hot natural.
+
+Specializing in discrimination cases in Islamabad. Handled 211+ cases with 71% success rate.",True
+lawyer_joshuawilliams,lawyer_55@skinner.com,defaultpassword123,Property Law,Land Disputes,17,227,Karachi,Clifton,"Pashto (Conversational), Sindhi (Basic), Urdu (Native), Punjabi (Conversational)","District Court, Session Court, High Court",5657,84%,"Speech bed car camera between. Product blood family bar.
+Beautiful energy myself. Size occur help send federal. Face subject low issue at star.
+
+Specializing in land disputes cases in Karachi. Handled 227+ cases with 84% success rate.",True
+lawyer_john01,lawyer_56@francis-gibson.com,defaultpassword123,Corporate Law,Mergers,17,298,Peshawar,Hayatabad,"Punjabi (Conversational), English (Fluent), Sindhi (Basic)","High Court, Special Tribunals",8334,77%,"Quickly best red. Feeling light guy contain season.
+Beat become gun. West court daughter report should bank.
+Technology southern lawyer no. Author doctor baby surface indicate ok.
+
+Specializing in mergers cases in Peshawar. Handled 298+ cases with 77% success rate.",True
+lawyer_browndavid,lawyer_57@blackburn-schroeder.com,defaultpassword123,Immigration Law,Deportation,7,376,Karachi,Defence,"Punjabi (Conversational), Urdu (Native), Pashto (Conversational)",High Court,19621,75%,"Phone truth democratic consider task issue. Maybe believe tough leader control special any.
+Moment able boy effort along entire. At I government begin.
+
+Specializing in deportation cases in Karachi. Handled 376+ cases with 75% success rate.",False
+lawyer_kathryn90,lawyer_58@deleon-vance.com,defaultpassword123,Intellectual Property,Copyright,4,294,Lahore,Model Town,"English (Fluent), Urdu (Native), Sindhi (Basic), Punjabi (Conversational)","Session Court, District Court",9552,84%,"Though operation beautiful top return answer watch. Everybody begin final sign benefit open really.
+Quality other like notice whether. Think lawyer if sense later.
+
+Specializing in copyright cases in Lahore. Handled 294+ cases with 84% success rate.",True
+lawyer_ryan53,lawyer_59@williams.org,defaultpassword123,Immigration Law,Deportation,5,26,Lahore,DHA,"Urdu (Native), Sindhi (Basic), English (Fluent)","High Court, District Court, Session Court",11967,82%,"Quite where thus nor assume.
+Leader although war eight board produce possible. Need toward contain collection movie president.
+
+Specializing in deportation cases in Lahore. Handled 26+ cases with 82% success rate.",True
+lawyer_julia01,lawyer_60@spencer.com,defaultpassword123,Intellectual Property,Trademarks,8,324,Karachi,Defence,"Urdu (Native), Punjabi (Conversational), Sindhi (Basic), English (Fluent)","Session Court, High Court",8158,71%,"Bit no season benefit year would. Partner certain dog stuff author reduce. Rest heavy painting mother speech laugh increase.
+Manage push enjoy lose suddenly. State week until.
+
+Specializing in trademarks cases in Karachi. Handled 324+ cases with 71% success rate.",False
+lawyer_tiffany50,lawyer_61@hill.com,defaultpassword123,Civil Rights,Police Brutality,4,468,Lahore,Gulberg,"Pashto (Conversational), Sindhi (Basic), Urdu (Native)","Special Tribunals, District Court, High Court",10621,79%,"Sure ok better. Add network west Mr PM. Organization although drop place control.
+Want arrive central pass first. Perhaps there study computer production than. Stand feeling indicate expert someone.
+
+Specializing in police brutality cases in Lahore. Handled 468+ cases with 79% success rate.",True
+lawyer_brandon88,lawyer_62@brown.com,defaultpassword123,Civil Rights,Discrimination,15,147,Karachi,Clifton,"Urdu (Native), Punjabi (Conversational), Pashto (Conversational), Sindhi (Basic)","High Court, Session Court",4875,75%,"Test significant activity natural subject remain key. Leg at certainly show bar. Reflect improve evening last beyond skill song kid.
+
+Specializing in discrimination cases in Karachi. Handled 147+ cases with 75% success rate.",False
+lawyer_castillokatherine,lawyer_63@white.com,defaultpassword123,Corporate Law,Compliance,21,323,Quetta,Samungli Road,"Urdu (Native), Pashto (Conversational), Punjabi (Conversational), Sindhi (Basic)","District Court, Special Tribunals",12569,93%,"Ahead heavy live another appear. Several clear note certain audience better however yes. Hotel election coach audience pick body.
+
+Specializing in compliance cases in Quetta. Handled 323+ cases with 93% success rate.",False
+lawyer_iwilliams,lawyer_64@gould.com,defaultpassword123,Criminal Law,White Collar Crimes,5,152,Peshawar,Hayatabad,"Pashto (Conversational), English (Fluent), Urdu (Native)","High Court, District Court, Session Court",15760,95%,"She know describe free push international everyone. Avoid week these seem anything play thus community. Effect decide piece indicate world tell.
+
+Specializing in white collar crimes cases in Peshawar. Handled 152+ cases with 95% success rate.",False
+lawyer_lhill,lawyer_65@bryant.net,defaultpassword123,Property Law,Rental Issues,18,37,Peshawar,University Town,"Sindhi (Basic), English (Fluent), Punjabi (Conversational)","District Court, Special Tribunals, Session Court",13628,63%,"Care like check with near discover team. Exist top toward into of customer.
+
+Specializing in rental issues cases in Peshawar. Handled 37+ cases with 63% success rate.",True
+lawyer_michael89,lawyer_66@foster-daniels.com,defaultpassword123,Property Law,Land Disputes,19,171,Islamabad,Blue Area,"Pashto (Conversational), Punjabi (Conversational)","Session Court, Special Tribunals",12677,83%,"Range individual computer compare subject paper chance whether. Church nation air back. Area design number run final.
+
+Specializing in land disputes cases in Islamabad. Handled 171+ cases with 83% success rate.",False
+lawyer_jessicaperry,lawyer_67@gray.net,defaultpassword123,Criminal Law,Drug Offenses,25,366,Karachi,Clifton,"Sindhi (Basic), Urdu (Native), Pashto (Conversational)","Session Court, High Court",15971,85%,"Step across half body degree dream act. Perhaps wear understand show.
+Start drug try call quite read. Weight one already point.
+
+Specializing in drug offenses cases in Karachi. Handled 366+ cases with 85% success rate.",True
+lawyer_mjones,lawyer_68@taylor.biz,defaultpassword123,Criminal Law,White Collar Crimes,18,242,Quetta,Samungli Road,"Punjabi (Conversational), Pashto (Conversational)","District Court, Special Tribunals, High Court",14048,95%,"Young popular fire feel purpose. Interview American discuss become. But seem benefit director life.
+Knowledge ask become new rate. Big analysis travel staff.
+
+Specializing in white collar crimes cases in Quetta. Handled 242+ cases with 95% success rate.",True
+lawyer_xhanson,lawyer_69@phillips.com,defaultpassword123,Corporate Law,Mergers,6,333,Karachi,Defence,"Punjabi (Conversational), English (Fluent), Urdu (Native)","Special Tribunals, District Court, Session Court",19505,82%,"Experience her mean movie something brother. Should born population tell short have include. Hard executive spring between goal record focus.
+
+Specializing in mergers cases in Karachi. Handled 333+ cases with 82% success rate.",True
+lawyer_longrita,lawyer_70@sanders.com,defaultpassword123,Corporate Law,Mergers,8,313,Lahore,Model Town,"Urdu (Native), Sindhi (Basic)","District Court, High Court",17345,74%,"War notice mind talk talk. After various culture thousand east hand. Us tonight discover growth notice. Walk even nothing open.
+
+Specializing in mergers cases in Lahore. Handled 313+ cases with 74% success rate.",False
+lawyer_svelez,lawyer_71@burke.biz,defaultpassword123,Civil Rights,Discrimination,16,98,Islamabad,F-8,"Sindhi (Basic), Pashto (Conversational), Urdu (Native)",High Court,5716,66%,"Thing suggest never seek. Garden stay price part order eye enjoy.
+Democrat middle without. Site war reality should worry concern sure. Measure central throw single teacher long.
+
+Specializing in discrimination cases in Islamabad. Handled 98+ cases with 66% success rate.",True
+lawyer_gonzalezwendy,lawyer_72@shaw.net,defaultpassword123,Corporate Law,Contracts,6,280,Quetta,Jinnah Town,"English (Fluent), Sindhi (Basic), Punjabi (Conversational), Pashto (Conversational)","District Court, High Court",6374,80%,"Account different he.
+Would medical color conference manager range. Kid leader summer.
+Success star tax design. Economy require whose.
+
+Specializing in contracts cases in Quetta. Handled 280+ cases with 80% success rate.",True
+lawyer_vanessa63,lawyer_73@short.biz,defaultpassword123,Intellectual Property,Copyright,13,86,Peshawar,Hayatabad,"English (Fluent), Urdu (Native)",Session Court,6458,89%,"They land music. Reality computer cell better audience major. Always program would either set TV. Strong office open word style.
+Already benefit through maintain bar. Create certain better there.
+
+Specializing in copyright cases in Peshawar. Handled 86+ cases with 89% success rate.",False
+lawyer_jackiehill,lawyer_74@estrada-hughes.com,defaultpassword123,Immigration Law,Visas,7,73,Quetta,Samungli Road,"Urdu (Native), Sindhi (Basic), Pashto (Conversational), English (Fluent)","High Court, District Court, Session Court",10424,65%,"Until seem star defense each wait. Meet example morning I ten.
+Sea board food happy sit anything. Close add expert role experience natural sport. Attorney worker that hotel never theory.
+
+Specializing in visas cases in Quetta. Handled 73+ cases with 65% success rate.",True
+lawyer_sarahbowers,lawyer_75@arellano.com,defaultpassword123,Family Law,Child Custody,23,289,Karachi,Saddar,"Pashto (Conversational), English (Fluent), Urdu (Native)","Session Court, Special Tribunals, High Court",3928,79%,"You plant her. Air score phone together.
+Message boy adult box. Ok finally form. Arm herself interview team sure action father.
+
+Specializing in child custody cases in Karachi. Handled 289+ cases with 79% success rate.",False
+lawyer_alexanderdakota,lawyer_76@ross-short.info,defaultpassword123,Criminal Law,Drug Offenses,7,322,Islamabad,F-8,"Punjabi (Conversational), Pashto (Conversational)","District Court, Session Court",19774,61%,"Style team skin argue Democrat including trade accept. Team fear knowledge air. Attack against opportunity direction television Mr.
+
+Specializing in drug offenses cases in Islamabad. Handled 322+ cases with 61% success rate.",True
+lawyer_cbennett,lawyer_77@moore-leblanc.biz,defaultpassword123,Criminal Law,Violent Crimes,5,288,Peshawar,Hayatabad,"Sindhi (Basic), Urdu (Native), English (Fluent), Punjabi (Conversational)","Session Court, Special Tribunals, District Court",10334,66%,"Region student trouble recent character by what. Phone sport after. Teach hundred consider mind operation result there.
+Pay price relationship operation may. And start number decade.
+
+Specializing in violent crimes cases in Peshawar. Handled 288+ cases with 66% success rate.",True
+lawyer_williamsrussell,lawyer_78@waters.org,defaultpassword123,Corporate Law,Contracts,20,292,Lahore,Gulberg,"English (Fluent), Urdu (Native), Sindhi (Basic)","High Court, Special Tribunals, District Court",15069,78%,"Short health push later inside parent travel. Term matter individual real. Area office begin cause think conference.
+Agree recognize magazine capital fall soon. Girl garden employee many agreement.
+
+Specializing in contracts cases in Lahore. Handled 292+ cases with 78% success rate.",False
+lawyer_elizabethpatterson,lawyer_79@robinson.org,defaultpassword123,Criminal Law,Drug Offenses,20,454,Peshawar,Hayatabad,"Urdu (Native), Pashto (Conversational), Sindhi (Basic)","High Court, Special Tribunals",6919,69%,"Language reach mother share party that blue indicate.
+Bank high maybe clearly. Radio major see fear.
+Pm important fill seat issue. Issue the challenge certainly according rise.
+
+Specializing in drug offenses cases in Peshawar. Handled 454+ cases with 69% success rate.",False
+lawyer_jeff85,lawyer_80@brooks-fitzgerald.com,defaultpassword123,Corporate Law,Mergers,25,50,Peshawar,University Town,"Punjabi (Conversational), English (Fluent), Pashto (Conversational)","District Court, Session Court",8222,65%,"Risk structure would. Table join other whole behavior. See book sell condition lay store.
+Life station image tend hundred example medical his.
+
+Specializing in mergers cases in Peshawar. Handled 50+ cases with 65% success rate.",False
+lawyer_rachel94,lawyer_81@malone.org,defaultpassword123,Family Law,Adoption,13,440,Quetta,Jinnah Town,"Sindhi (Basic), Punjabi (Conversational), Urdu (Native)",District Court,18424,60%,"Action low crime office everything let nice. What size pressure simply doctor.
+At film down. Coach task stuff environment. Now or court discuss state east role.
+
+Specializing in adoption cases in Quetta. Handled 440+ cases with 60% success rate.",True
+lawyer_jacobmartinez,lawyer_82@ramirez.com,defaultpassword123,Corporate Law,Compliance,22,270,Peshawar,Hayatabad,"English (Fluent), Punjabi (Conversational), Sindhi (Basic), Urdu (Native)","High Court, Special Tribunals",12214,64%,"Money act anything.
+Board that national writer interview main. Opportunity world civil option beautiful paper myself day. Very agency national probably little draw.
+
+Specializing in compliance cases in Peshawar. Handled 270+ cases with 64% success rate.",False
+lawyer_melissagonzalez,lawyer_83@liu.net,defaultpassword123,Intellectual Property,Copyright,15,431,Islamabad,F-8,"Sindhi (Basic), Urdu (Native), Pashto (Conversational), Punjabi (Conversational)",Session Court,11548,62%,"Beat page since note middle also. What face behind war American oil half.
+
+Specializing in copyright cases in Islamabad. Handled 431+ cases with 62% success rate.",True
+lawyer_ledwards,lawyer_84@martin.com,defaultpassword123,Property Law,Land Disputes,17,48,Lahore,Model Town,"Urdu (Native), Punjabi (Conversational)","District Court, Session Court, Special Tribunals",6929,95%,"Significant forward final control.
+Hospital they thank far. Itself hand fly may store.
+
+Specializing in land disputes cases in Lahore. Handled 48+ cases with 95% success rate.",False
+lawyer_philip74,lawyer_85@maxwell.org,defaultpassword123,Criminal Law,Drug Offenses,22,333,Islamabad,Blue Area,"Punjabi (Conversational), Sindhi (Basic)","Session Court, District Court, High Court",17406,91%,"Bed thought require future then suffer. Each sign decide father nature management specific. Even behavior pressure office. Cause movement population.
+
+Specializing in drug offenses cases in Islamabad. Handled 333+ cases with 91% success rate.",True
+lawyer_wcross,lawyer_86@gonzalez-thompson.com,defaultpassword123,Civil Rights,Police Brutality,23,318,Islamabad,F-8,"Pashto (Conversational), Urdu (Native), English (Fluent)","Special Tribunals, Session Court, High Court",3682,80%,"Under animal positive recent. Successful involve fill up leg vote dream. Foreign manage international key.
+
+Specializing in police brutality cases in Islamabad. Handled 318+ cases with 80% success rate.",False
+lawyer_geraldvillanueva,lawyer_87@oconnell.com,defaultpassword123,Family Law,Divorce,23,102,Islamabad,F-8,"Punjabi (Conversational), English (Fluent), Urdu (Native)","High Court, Session Court",6262,93%,"Class mission we you bad. Decide wish physical firm respond firm identify.
+Since baby single happen. Research site guess third alone.
+
+Specializing in divorce cases in Islamabad. Handled 102+ cases with 93% success rate.",True
+lawyer_peterspaul,lawyer_88@waters.com,defaultpassword123,Intellectual Property,Trademarks,24,230,Peshawar,Hayatabad,"Pashto (Conversational), English (Fluent)","Session Court, High Court",2233,72%,"Once care item tell although fire somebody. Past perhaps stop affect woman person experience.
+
+Specializing in trademarks cases in Peshawar. Handled 230+ cases with 72% success rate.",True
+lawyer_alivingston,lawyer_89@morton-cherry.net,defaultpassword123,Criminal Law,White Collar Crimes,17,385,Karachi,Clifton,"Punjabi (Conversational), Pashto (Conversational), English (Fluent)",Session Court,9260,78%,"Song game power born. Quickly grow feel this dinner continue.
+
+Specializing in white collar crimes cases in Karachi. Handled 385+ cases with 78% success rate.",False
+lawyer_luis08,lawyer_90@anthony.info,defaultpassword123,Family Law,Divorce,9,307,Peshawar,Hayatabad,"Sindhi (Basic), Pashto (Conversational)","Session Court, High Court, Special Tribunals",16933,79%,"Program program threat know child. System example low Republican charge act. Body attention experience floor significant hot. Agreement thought impact government street material figure.
+
+Specializing in divorce cases in Peshawar. Handled 307+ cases with 79% success rate.",True
+lawyer_ryananthony,lawyer_91@jones-fitzpatrick.com,defaultpassword123,Civil Rights,Police Brutality,3,142,Peshawar,University Town,"Punjabi (Conversational), Sindhi (Basic), Urdu (Native)","Session Court, District Court",3207,63%,"Identify woman smile cost thus financial newspaper. Draw fight bad somebody.
+From various population expert such. Structure more than various opportunity north.
+
+Specializing in police brutality cases in Peshawar. Handled 142+ cases with 63% success rate.",True
+lawyer_wellsdawn,lawyer_92@martin.com,defaultpassword123,Corporate Law,Compliance,9,484,Lahore,DHA,"Urdu (Native), Punjabi (Conversational)","High Court, Session Court",5987,67%,"Play cause protect involve stay trial tonight assume. Politics significant against fact arrive identify coach. Star central window us give.
+Knowledge service leave international there end everybody.
+
+Specializing in compliance cases in Lahore. Handled 484+ cases with 67% success rate.",False
+lawyer_lfleming,lawyer_93@carter.com,defaultpassword123,Immigration Law,Citizenship,1,368,Islamabad,F-8,"English (Fluent), Urdu (Native), Punjabi (Conversational), Sindhi (Basic)","High Court, District Court, Session Court",12304,91%,"Whose pull long born. Notice nor right realize. Opportunity to herself when.
+
+Specializing in citizenship cases in Islamabad. Handled 368+ cases with 91% success rate.",False
+lawyer_tyler84,lawyer_94@graham-summers.org,defaultpassword123,Criminal Law,White Collar Crimes,12,52,Peshawar,Hayatabad,"English (Fluent), Urdu (Native), Sindhi (Basic), Pashto (Conversational)","Special Tribunals, Session Court",2883,80%,"Election task system positive consumer theory. Four institution official data alone. Total would race impact.
+
+Specializing in white collar crimes cases in Peshawar. Handled 52+ cases with 80% success rate.",False
+lawyer_uespinoza,lawyer_95@garcia.com,defaultpassword123,Family Law,Adoption,14,92,Quetta,Jinnah Town,"Urdu (Native), English (Fluent), Pashto (Conversational)","Special Tribunals, High Court, Session Court",3799,74%,"Federal but tell everyone exactly what stuff catch. Three he hospital most whom spend.
+
+Specializing in adoption cases in Quetta. Handled 92+ cases with 74% success rate.",False
+lawyer_omckay,lawyer_96@burton.com,defaultpassword123,Immigration Law,Deportation,1,362,Quetta,Jinnah Town,"Urdu (Native), Pashto (Conversational), English (Fluent)","High Court, Special Tribunals, District Court",14486,94%,"Morning third realize meeting would. Firm bank son second office miss table. Mother news give from seven value.
+
+Specializing in deportation cases in Quetta. Handled 362+ cases with 94% success rate.",True
+lawyer_ucook,lawyer_97@wright.org,defaultpassword123,Property Law,Rental Issues,5,478,Peshawar,University Town,"Pashto (Conversational), Punjabi (Conversational), English (Fluent), Sindhi (Basic)","High Court, District Court",6879,65%,"Thank happen control top clear reveal. Level finish relationship performance resource make.
+
+Specializing in rental issues cases in Peshawar. Handled 478+ cases with 65% success rate.",True
+lawyer_dbailey,lawyer_98@ramos.com,defaultpassword123,Immigration Law,Deportation,2,378,Lahore,DHA,"Punjabi (Conversational), English (Fluent), Sindhi (Basic)","Special Tribunals, Session Court",5294,83%,"Success along hard blood cell type right. Finally memory join rich reason.
+Company born leg star. Seem fill analysis government.
+
+Specializing in deportation cases in Lahore. Handled 378+ cases with 83% success rate.",True
+lawyer_joannagreene,lawyer_99@hamilton-turner.com,defaultpassword123,Intellectual Property,Patents,22,135,Peshawar,University Town,"English (Fluent), Sindhi (Basic)",Session Court,5890,78%,"Think degree step somebody memory response. Himself pull physical economic agreement thousand summer peace. Real group once south argue just own point.
+
+Specializing in patents cases in Peshawar. Handled 135+ cases with 78% success rate.",False
+lawyer_chanbrian,lawyer_100@shelton-mendoza.com,defaultpassword123,Immigration Law,Deportation,18,425,Quetta,Jinnah Town,"Urdu (Native), Pashto (Conversational), English (Fluent), Punjabi (Conversational)","High Court, Special Tribunals, District Court",16372,69%,"Wear no watch. Anyone recent area political whose brother discover. Sit professional it such.
+Run personal and crime. Five hope work prove.
+Peace field success. Probably cold Republican development.
+
+Specializing in deportation cases in Quetta. Handled 425+ cases with 69% success rate.",True

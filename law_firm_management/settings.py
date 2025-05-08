@@ -11,6 +11,16 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 """
 
 from pathlib import Path
+from corsheaders.defaults import default_headers
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+SECRET_KEY = os.getenv('SECRET_KEY')
+DEBUG = os.getenv('DEBUG', 'False') == 'True'
+
+ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS', '').split(',')
+
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -20,32 +30,27 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-+ut2yk-k)*&ykrt3u)w!d-^8j=7tgjm0$elkh1uf9k77)_1amq'
-
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
-
-ALLOWED_HOSTS = []
-
-
 # Application definition
 
 INSTALLED_APPS = [
+    'corsheaders',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'user',
     'rest_framework',
     'rest_framework_simplejwt',
     'rest_framework_simplejwt.token_blacklist',
-    'oauth2_provider',
     'social_django',
+    'oauth2_provider',
+    'user',
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -82,7 +87,7 @@ WSGI_APPLICATION = 'law_firm_management.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'NAME': os.path.join(BASE_DIR, os.getenv('DB_NAME', 'db.sqlite3')),
     }
 }
 
@@ -131,6 +136,9 @@ REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': [
         'rest_framework_simplejwt.authentication.JWTAuthentication',
     ],
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.IsAuthenticated',
+    ],
 }
 
 from datetime import timedelta
@@ -140,28 +148,42 @@ SIMPLE_JWT = {
     'REFRESH_TOKEN_LIFETIME': timedelta(days=1),
     'ROTATE_REFRESH_TOKENS': True,  # Enable token rotation
     'BLACKLIST_AFTER_ROTATION': True,  # Enable token blacklisting
+    'AUTH_HEADER_TYPES': ('Bearer',),
 }
-
 OAUTH2_PROVIDER = {
-    'CLIENT_ID': 'XL46V78kssBqdgcriuZcEGybcyNPBhZLCYPohJja',
-    'CLIENT_SECRET': 'rlXnYOioZ77jGxT9lScWx7lBoPOy2GqcjzfWxVZb9gbF1GmRrHV2EYzrgTtmvKcQkF4MikYZYBxXNmKR0xwOdKJJmPfm59Ksqg0N8q8H9uzYH1APBORnPyeLFCiXHTDf',
+    'CLIENT_ID': os.getenv('OAUTH2_CLIENT_ID'),
+    'CLIENT_SECRET': os.getenv('OAUTH2_CLIENT_SECRET'),
     'SCOPES': {
         'read': 'Read scope',
         'write': 'Write scope',
     },
 }
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '395949656335-u2d8bbfpa0dnae1kaiinianjbkeoobq4.apps.googleusercontent.com'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = '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'
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = os.getenv('SOCIAL_AUTH_GOOGLE_OAUTH2_KEY')
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = os.getenv('SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET')
 
 AUTHENTICATION_BACKENDS = [
     'social_core.backends.google.GoogleOAuth2',
     'django.contrib.auth.backends.ModelBackend',
+    # 'user.authentication.EmailBackend',  # <- Custom backend
 ]
 
 AUTH_USER_MODEL = 'user.CustomUser'
+CORS_ALLOW_ALL_ORIGINS = True  # For development only!
+CORS_ALLOWED_ORIGINS = [
+    'http://localhost:5173',
+    'http://127.0.0.1:5173',
 
-LOGIN_REDIRECT_URL = '/user/register'  # Redirect to the home page after login
+]
+CORS_ALLOW_CREDENTIALS = True
+
+CORS_ALLOW_HEADERS = list(default_headers) + [
+    'content-disposition',
+]
+CSRF_COOKIE_SECURE = False
+CSRF_COOKIE_HTTPONLY = False
+LOGIN_REDIRECT_URL = 'http://localhost:8000/user/google-redirect/'
+  # Redirect to the home page after login
 
 SOCIAL_AUTH_PIPELINE = (
     'social_core.pipeline.social_auth.social_details',
@@ -171,7 +193,7 @@ SOCIAL_AUTH_PIPELINE = (
     'social_core.pipeline.user.get_username',
     'user.pipeline.collect_username',  # Add your custom pipeline step here
     'user.pipeline.save_user_data', 
-    'social_core.pipeline.user.create_user',
+    # 'social_core.pipeline.user.create_user',
     'social_core.pipeline.social_auth.associate_user',
     'social_core.pipeline.social_auth.load_extra_data',
     'social_core.pipeline.user.user_details',
@@ -182,3 +204,5 @@ SOCIAL_AUTH_GOOGLE_OAUTH2_SCOPE = [
     'https://www.googleapis.com/auth/userinfo.profile',
     'openid',
 ]
+
+SOCIAL_AUTH_LOGIN_REDIRECT_URL = '/oauth-success'

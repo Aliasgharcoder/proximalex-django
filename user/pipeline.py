@@ -23,7 +23,7 @@ def collect_username(strategy, backend, details, user=None, is_new=False, *args,
     strategy.session_set('social_auth_uid', social_uid)
 
     # Redirect to the collect-username endpoint
-    return redirect(reverse('collect_username'))
+    return redirect('http://localhost:5173/')
 
 
 from social_core.exceptions import AuthAlreadyAssociated
