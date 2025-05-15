@@ -280,4 +280,6 @@ def predict_lawyers_view(request):
 class LawyerListAPIView(ListAPIView):
     queryset = CustomUser.objects.filter(is_available=True, role='lawyer')
     serializer_class = LawyerSerializer
-    permission_classes = [AllowAny]                      
+    permission_classes = [AllowAny]
+    authentication_classes = []  # ← Disables all authentication
+                      
