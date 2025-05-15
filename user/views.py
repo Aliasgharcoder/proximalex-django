@@ -100,6 +100,7 @@ class CollectUsernameView(APIView):
 
 class UserRegistrationView(generics.CreateAPIView):
     serializer_class = UserRegistrationSerializer
+    permission_classes = [AllowAny]
 
 
 
